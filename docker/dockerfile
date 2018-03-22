@@ -1,0 +1,4 @@
+From ubuntu
+MAINTAINER huangxiaosong huangxiaosong@caicloud.io
+ADD hh.sh /
+CMD ["/hh.sh","run"]
