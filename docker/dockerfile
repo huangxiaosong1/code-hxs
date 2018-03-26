@@ -1,4 +1,4 @@
 From reg-test.haier.net/caicloud/ubuntu:hxs
 MAINTAINER huangxiaosong huangxiaosong@caicloud.io
-ADD hh.sh /
+ADD docker/hh.sh /
 CMD ["/hh.sh","run"]
