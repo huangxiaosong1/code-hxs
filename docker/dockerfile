@@ -1,4 +1,4 @@
-From reg-test.haier.net/caicloud/ubuntu:hxs
+From cargo.caicloudprivatetest.com/qatest/ubuntu:hxs
 MAINTAINER huangxiaosong huangxiaosong@caicloud.io
-ADD docker/hh.sh /
+ADD hh.sh /
 CMD ["/hh.sh","run"]

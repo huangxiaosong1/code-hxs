@@ -1,6 +1,6 @@
 #!/bin/bash
 while (true)
 do
-	echo hello,world
-	sleep 2
+	echo "hello,world"
+	sleep 10
 done
