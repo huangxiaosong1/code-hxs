@@ -1,6 +1,10 @@
 #!/bin/bash
-while (true)
+i=1
+while [ $i -le 1000 ]
 do
-	echo "hello,world"
-	sleep 10
+	sum=123456
+	sum=$(( ${sum} * ${i} ))
+	echo $sum
+	i=$(($i+1))
+	sleep 0.1
 done

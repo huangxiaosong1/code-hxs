@@ -1,4 +1,4 @@
-From cargo.caicloudprivatetest.com/qatest/ubuntu:hxs
+From cargo-multiple-tenant-current.caicloudprivatetest.com/library/ubuntu:hhh
 MAINTAINER huangxiaosong huangxiaosong@caicloud.io
 ADD hh.sh /
 CMD ["/hh.sh","run"]
