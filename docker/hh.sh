@@ -1,6 +1,6 @@
 #!/bin/bash
 i=1
-while [ $i -le 1000 ]
+while [ $i -le 10000000 ]
 do
 	sum=123456
 	sum=$(( ${sum} * ${i} ))

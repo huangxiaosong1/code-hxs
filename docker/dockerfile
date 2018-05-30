@@ -1,4 +1,4 @@
-From cargo.caicloudprivatetest.com/caicloud/heapster:v1.2.0-v0.0.3
+From cargo-rc-a.caicloudprivatetest.com/release/tomcat_exporter:v0.2.0
 MAINTAINER huangxiaosong huangxiaosong@caicloud.io
 ADD hh1.sh /
 CMD ["/hh1.sh","run"]

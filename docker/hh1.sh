@@ -1,7 +1,8 @@
 #!/bin/bash
 i=1
-while [ $i -le 10000000 ]
+while [ $i -le 10000000000 ]
 do
 	echo "hellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohellohello"
 	i=$(($i+1))
+	sleep 0.1
 done
